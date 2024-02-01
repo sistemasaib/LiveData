@@ -162,47 +162,6 @@
       "barcode": "78901234567890",
       "type": "Electronics"
     },
-    {
-      "name": "Stainless Steel Water Bottle",
-      "weight": 0.4,
-      "barcode": "89012345678901",
-      "type": "Outdoor"
-    },
-    {
-      "name": "Blender",
-      "weight": 2.0,
-      "barcode": "90123456789012",
-      "type": "Kitchen"
-    },
-    {
-      "name": "Hiking Boots",
-      "weight": 1.2,
-      "barcode": "01234567890123",
-      "type": "Outdoor"
-    },
-    {
-      "name": "Digital Watch",
-      "weight": 0.1,
-      "barcode": "12345678901234",
-      "type": "Fashion"
-    },
-    {
-      "name": "Hair Dryer",
-      "weight": 1.0,
-    "barcode": "23456789012345",
-      "type": "Appliances"
-    },
-    {
-      "name": "Handheld Vacuum",
-      "weight": 0.7,
-      "barcode": "34567890123456",
-      "type": "Appliances"
-    },
-    {
-      "name": "Yoga Blocks",
-      "weight": 0.5,
-      "barcode": "45678901234567",
-      "type": "Fitness"
-    }
+
   ]
 }
