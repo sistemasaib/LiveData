@@ -137,30 +137,6 @@
       "weight": 2.5,
       "barcode": "45678901234567",
       "type": "Outdoor"
-    },
-    {
-      "name": "Electric Kettle",
-      "weight": 1.0,
-      "barcode": "56789012345678",
-      "type": "Appliances"
-    },
-    {
-      "name": "Running Shorts",
-      "weight": 0.2,
-      "barcode": "67890123456789",
-      "type": "Athletic Wear"
-    },
-    {
-      "name": "Home Theater System",
-      "weight": 5.0,
-      "barcode": "78901234567890",
-      "type": "Electronics"
-    },
-        {
-      "name": "Sweater",
-      "weight": 0.5,
-      "barcode": "23456789012345",
-      "type": "Fashion"
     }
 
   ]
