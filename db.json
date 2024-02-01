@@ -13,18 +13,6 @@
       "type": "Electronics"
     },
     {
-      "name": "Luxury Watch",
-      "weight": 0.1,
-      "barcode": "456789012345",
-      "type": "Fashion"
-    },
-    {
-      "name": "Fitness Tracker",
-      "weight": 0.3,
-      "barcode": "567890123456",
-      "type": "Electronics"
-    },
-    {
       "name": "Power Drill",
       "weight": 1.8,
       "barcode": "678901234567",
@@ -138,6 +126,5 @@
       "barcode": "45678901234567",
       "type": "Outdoor"
     }
-
   ]
 }
