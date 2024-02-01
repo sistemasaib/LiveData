@@ -13,12 +13,6 @@
       "type": "Electronics"
     },
     {
-      "name": "Toolbox Set",
-      "weight": 2.5,
-      "barcode": "345678901234",
-      "type": "Tools"
-    },
-    {
       "name": "Luxury Watch",
       "weight": 0.1,
       "barcode": "456789012345",
