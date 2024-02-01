@@ -203,66 +203,6 @@
       "weight": 0.5,
       "barcode": "45678901234567",
       "type": "Fitness"
-    },
-    {
-      "name": "Rolling Suitcase",
-      "weight": 4.0,
-      "barcode": "56789012345678",
-      "type": "Travel"
-    },
-    {
-      "name": "Chef's Knife",
-      "weight": 0.6,
-      "barcode": "67890123456789",
-      "type": "Kitchen"
-    },
-    {
-      "name": "Portable Speaker",
-      "weight": 0.8,
-      "barcode": "78901234567890",
-      "type": "Electronics"
-    },
-    {
-      "name": "Denim Jeans",
-      "weight": 0.7,
-      "barcode": "89012345678901",
-      "type": "Fashion"
-    },
-    {
-      "name": "Snowboard",
-      "weight": 5.5,
-      "barcode": "90123456789012",
-      "type": "Outdoor"
-    },
-    {
-      "name": "Microwave Oven",
-      "weight": 3.0,
-      "barcode": "01234567890123",
-      "type": "Appliances"
-    },
-    {
-      "name": "Gaming Laptop",
-      "weight": 2.2,
-      "barcode": "12345678901234",
-      "type": "Electronics"
-    },
-    {
-      "name": "Sweater",
-      "weight": 0.5,
-      "barcode": "23456789012345",
-      "type": "Fashion"
-    },
-    {
-      "name": "Camping Stove",
-      "weight": 1.8,
-      "barcode": "34567890123456",
-      "type": "Outdoor"
-    },
-    {
-      "name": "Tea Kettle",
-      "weight": 0.9,
-      "barcode": "45678901234567",
-      "type": "Kitchen"
     }
   ]
 }
