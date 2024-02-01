@@ -7,18 +7,6 @@
       "type": "Electronics"
     },
     {
-      "name": "Gadget X",
-      "weight": 1.2,
-      "barcode": "234567890123",
-      "type": "Electronics"
-    },
-    {
-      "name": "Power Drill",
-      "weight": 1.8,
-      "barcode": "678901234567",
-      "type": "Tools"
-    },
-    {
       "name": "Coffee Maker",
       "weight": 1.5,
       "barcode": "789012345678",
