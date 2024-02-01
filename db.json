@@ -173,6 +173,18 @@
       "weight": 0.9,
       "barcode": "45678901234567",
       "type": "Kitchen"
+    },
+        {
+      "name": "Snowboard",
+      "weight": 5.5,
+      "barcode": "90123456789012",
+      "type": "Outdoor"
+    },
+    {
+      "name": "Microwave Oven",
+      "weight": 3.0,
+      "barcode": "01234567890123",
+      "type": "Appliances"
     }
 
   ]
