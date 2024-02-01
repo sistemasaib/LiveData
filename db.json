@@ -155,6 +155,24 @@
       "weight": 5.0,
       "barcode": "78901234567890",
       "type": "Electronics"
+    },
+        {
+      "name": "Sweater",
+      "weight": 0.5,
+      "barcode": "23456789012345",
+      "type": "Fashion"
+    },
+    {
+      "name": "Camping Stove",
+      "weight": 1.8,
+      "barcode": "34567890123456",
+      "type": "Outdoor"
+    },
+    {
+      "name": "Tea Kettle",
+      "weight": 0.9,
+      "barcode": "45678901234567",
+      "type": "Kitchen"
     }
 
   ]
