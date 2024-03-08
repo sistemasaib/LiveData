@@ -31,52 +31,10 @@
       "type": "Appliances"
     },
     {
-      "name": "Running Shoes",
-      "weight": 0.7,
-      "barcode": "1234567890123",
-      "type": "Footwear"
-    },
-    {
-      "name": "Cookware Set",
-      "weight": 3.5,
-      "barcode": "2345678901234",
-      "type": "Kitchen"
-    },
-    {
-      "name": "Smartphone",
-      "weight": 0.4,
-      "barcode": "3456789012345",
-      "type": "Electronics"
-    },
-    {
-      "name": "Backpack",
-      "weight": 0.9,
-      "barcode": "4567890123456",
-      "type": "Fashion"
-    },
-    {
       "name": "Tool Belt",
       "weight": 0.6,
       "barcode": "5678901234567",
       "type": "Tools"
-    },
-    {
-      "name": "Digital Camera",
-      "weight": 0.8,
-      "barcode": "6789012345678",
-      "type": "Electronics"
-    },
-    {
-      "name": "Sunglasses",
-      "weight": 0.1,
-      "barcode": "7890123456789",
-      "type": "Fashion"
-    },
-    {
-      "name": "Toaster Oven",
-      "weight": 1.4,
-      "barcode": "8901234567890",
-      "type": "Appliances"
     },
     {
       "name": "Travel Pillow",
